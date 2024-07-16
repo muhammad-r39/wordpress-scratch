@@ -1,2 +1,2 @@
-# wordpress-scratch
+# wordpress-boilerplate
 Basic theme template
